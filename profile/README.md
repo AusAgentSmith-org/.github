@@ -56,4 +56,4 @@ Building open-source tools for Usenet and peer-to-peer file transfer in Rust and
 
 ### Contact
 
-ausagentsmith@proton.me
+ausagentsmith@proton.me | [Discord](https://discord.gg/pu6chSqpnJ)
